@@ -1,2 +1,0 @@
-# useGridArea
-Created with CodeSandbox
